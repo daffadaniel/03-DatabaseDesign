@@ -4,7 +4,7 @@ date: "2025-11-12"
 ---
 
 ::: {.callout-important}
-The coding phase is officially finished! I’m now working on turning the insights and results from this repo into a full-length article. In the meantime, feel free to check out the source code and documentation right [here](https://github.com/daffadaniel/01-UsedCarPrediction).
+The coding phase is officially finished! I’m now working on turning the insights and results from this repo into a full-length article. In the meantime, feel free to check out the source code and documentation right [here](https://github.com/daffadaniel/03-DatabaseDesign).
 :::
 
 

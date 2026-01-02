@@ -35,8 +35,10 @@ website:
         file: index.qmd
       - section: "Project Detail"
         contents:
-          - text: "Creating Dummy Data Sets Notebook"
+          - text: "Populating the Database"
             file: notebook/Populating_the_Database.ipynb
+          - text:  "SQL Script for Creating Tables"
+            file: database/hospital-project-tables.sql
 
 page-footer:
     right: "This blog is built with [Quarto](https://quarto.org/)."
